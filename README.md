@@ -3,7 +3,7 @@
 ###  目录
 ##### 动词变形
 - [ます形](https://github.com/xinwu-yang/nippon/blob/master/%E3%81%BE%E3%81%99%E5%BD%A2.md)
-- [た形]([https://github.com/xinwu-yang/nippon/blob/master/%E3%81%9F%E5%BD%A2.md](https://github.com/xinwu-yang/nippon/blob/master/た形.md))
+- [た形](https://github.com/xinwu-yang/nippon/blob/master/%E3%81%9F%E5%BD%A2.md)
 - [て形](https://github.com/xinwu-yang/nippon/blob/master/%E3%81%A6%E5%BD%A2.md)
 - [ない形](https://github.com/xinwu-yang/nippon/blob/master/%E3%81%AA%E3%81%84%E5%BD%A2.md)
 - [使役态](https://github.com/xinwu-yang/nippon/blob/master/%E4%BD%BF%E5%BD%B9%E6%80%81.md)
