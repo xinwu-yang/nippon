@@ -25,3 +25,4 @@
 		- [4单元](https://github.com/xinwu-yang/nippon/tree/master/N3/%EF%BC%94%E5%8D%98%E5%85%83)
 	- N2
 		- [5单元](https://github.com/xinwu-yang/nippon/tree/master/N2/%E7%AC%AC%EF%BC%95%E5%8D%98%E5%85%83)
+		- [6单元](https://github.com/xinwu-yang/nippon/tree/master/N2/%E7%AC%AC%EF%BC%96%E5%8D%98%E5%85%83)
