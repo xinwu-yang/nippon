@@ -16,8 +16,7 @@
 	- [意志形](%E6%84%8F%E5%BF%97%E5%BD%A2.md)
 	- [命令形和禁止形](%E5%BD%A2%E5%AE%B9%E8%AF%8D%E5%92%8C%E5%BD%A2%E5%AE%B9%E5%8A%A8%E8%AF%8D.md)
 
-2. 形容词和形容动词
-	- [形容词和形容动词](%E5%BD%A2%E5%AE%B9%E8%AF%8D%E5%92%8C%E5%BD%A2%E5%AE%B9%E5%8A%A8%E8%AF%8D.md)
+2. [形容词和形容动词](%E5%BD%A2%E5%AE%B9%E8%AF%8D%E5%92%8C%E5%BD%A2%E5%AE%B9%E5%8A%A8%E8%AF%8D.md)
 
 3. [助词](助词.md)
 
