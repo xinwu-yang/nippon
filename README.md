@@ -1,4 +1,4 @@
-![nippon-logo-1](https://user-images.githubusercontent.com/12267648/201001772-b621f24b-ca7c-44ad-a7e6-6fc71a0dce53.png)
+![nippon-logo-1](https://user-images.githubusercontent.com/12267648/201016139-2a6bb042-fe46-42e7-9c3f-38da008dec9b.png)
 
 これは私の日本語メモです。N5からN2まで文法を含めていた。正しくない箇所があったら，ぜひお教えいただけますよう！ご参考になったら，スターをお願いいたします！
 
