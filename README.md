@@ -55,3 +55,7 @@
 | [2单元](N3/2) | [6单元](N2/6) |
 | [3单元](N3/3) | [7单元](N2/7) |
 | [4单元](N3/4) | [8单元](N2/8) |
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xinwu-yang/nippon&type=date&legend=top-left)](https://www.star-history.com/#xinwu-yang/nippon&type=date&legend=top-left)
